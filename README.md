@@ -1,2 +1,2 @@
 # Hospital-Managment-System
-A multi-functional hospital management sstem
+A multi-functional hospital management system
